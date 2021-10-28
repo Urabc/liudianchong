@@ -1,4 +1,4 @@
-## Welcome to tiy.app
+## Welcome to TIY(Try it Yourself)
 
 You can use the  to maintain and preview the content for your website in Markdown files.
 
